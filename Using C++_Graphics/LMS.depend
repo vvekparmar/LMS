@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1584709340 source:e:\degree\sem-4\programming laboratory\lms\main.cpp
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
+1584708392 source:e:\degree\sem-4\programming laboratory\lms\graphics_main.cpp
+	<graphics.h>
+	<stdlib.h>
+	"main.h"
+
+1584709320 source:e:\degree\sem-4\programming laboratory\lms\menu.cpp
+	<graphics.h>
+
+1583432529 e:\degree\sem-4\programming laboratory\lms\main.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
+1584709841 source:e:\degree\sem-4\programming laboratory\project\lms\graphics_main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	"main.h"
+
+1583432529 e:\degree\sem-4\programming laboratory\project\lms\main.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
+1584709340 source:e:\degree\sem-4\programming laboratory\project\lms\main.cpp
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
